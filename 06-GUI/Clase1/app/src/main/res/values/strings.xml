@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clase1</string>
+    <string name="MensajeSaludo">Saludo Básico</string>
+    <string name="BtnSaludar">Saludar</string>
+    <string name="MensajeSaludoP">Saludo Personalizado</string>
+    <string name="txtNombreHint">Ingrese Nombre</string>
+</resources>
